@@ -1,0 +1,11 @@
+{
+  "name": "@sat_npm/tiny",
+  "version": "4.0.0",
+  "description": "Removes all spaces from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sathish",
+  "license": "MIT"
+}
